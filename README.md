@@ -1,8 +1,7 @@
-# BE_reading_list
+# Behavioral Economics reading list
 
-Behavioral Economics reading list.
 
-Because there are not many textbooks on the subject, as a rule of thump, papers are the go-to. 
+Because there are not many textbooks on the subject, as a rule of thump, papers and other texts are the go-to. 
 Here is a list of literature on the subject which I found to be particularly helpful. Pull requests are welcome!!
 
 # 1. Behavioral Economics history and Basics.
