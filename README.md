@@ -7,5 +7,5 @@ Here is a list of literature on the subject which I found to be particularly hel
 
 # 1. Behavioral Economics history and Basics.
 ## Best introduction:
-[1] Thaler, Richard H., Behavioral Economics: Past, Present and Future (May 27, 2016). ([pdf])[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2790606] ⭐⭐⭐⭐⭐
+[1] Thaler, Richard H., Behavioral Economics: Past, Present and Future (May 27, 2016). [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2790606) ⭐⭐⭐⭐⭐
 
